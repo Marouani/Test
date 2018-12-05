@@ -19,6 +19,7 @@ using WebApplicationTestGit.Results;
 
 namespace WebApplicationTestGit.Controllers
 {
+    //Test
     [Authorize]
     [RoutePrefix("api/Account")]
     public class AccountController : ApiController
